@@ -24,7 +24,7 @@
     "aws-sdk": "~2.2.43",
     "babel-plugin-feature-flags": "~0.2.1",
     "babel-plugin-filter-imports": "~0.2.0",
-    "bower": "~1.7.7",
+    "bower": "~1.8.12",
     "broccoli-stew": "^1.2.0",
     "chalk": "^1.1.1",
     "ember-cli": "^2.6.1",
